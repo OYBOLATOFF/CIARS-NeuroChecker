@@ -16,7 +16,7 @@ export default function App() {
     setLoading(true);
     setTimeout(() => {
       setLoading(false);
-    }, 3000)
+    }, 4000)
   }
 
   if (isLoading) {
